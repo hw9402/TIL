@@ -4,6 +4,12 @@
 - Java SE(Java Platform, Standard Edition)은 자바의 표준안
 - 소프트웨어의 설계도
 
+## Java EE
+- 기업용 시장에서 사용하는 자바 개발환경
+
+## Java Me
+- 모바일 개발을 위해서 사용하는 자바 버전
+
 ## JDK
 - JDK(Java Development Kit)는 Java SE의 표준안에 따라서 만들어진 구체적인 소프트웨어
 - Java 개발자라면 무조건 설치해야함
